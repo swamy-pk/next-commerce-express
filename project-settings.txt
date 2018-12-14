@@ -1,0 +1,4 @@
+After setting up the Node JS Express project in eclipse and run the below command
+1.npm install--> to download the node modules folder which will install all the node packages whose dependencies are defined in package.json
+
+To run the project use the command-->npm start
